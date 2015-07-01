@@ -1,0 +1,17 @@
+11 Apr 16:24:39 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 11 Apr 16:24:39 DefaultRequestDirector | tryExecute | - Retrying request
+ 11 Apr 16:24:40 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 11 Apr 16:24:40 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 1 Test Case
+ 11 Apr 16:24:40 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 11 Apr 16:24:40 LogHelper | logTestCaseHeader | - Test Case Start = Thu Apr 11 16:24:40 CDT 2013
+ 11 Apr 16:24:40 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 11 Apr 16:24:41 LogHelper | logStepStatus | - 04/11/2013 04:24:41 PM|Check|ScenarioID 1 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 11 Apr 16:25:21 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 11 Apr 16:25:21 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 11 Apr 16:25:21 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 11 Apr 16:25:21 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 11 Apr 16:25:21 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 11 Apr 16:25:21 LogHelper | logTestCaseFooter | - Test Case Time 	= Thu Apr 11 16:25:21 CDT 2013
+ 11 Apr 16:25:21 LogHelper | logTestCaseFooter | - Test Case End 	= Thu Apr 11 16:25:21 CDT 2013
+ 11 Apr 16:25:21 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 

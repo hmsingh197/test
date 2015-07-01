@@ -1,0 +1,1160 @@
+17 Apr 08:50:03 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 08:50:03 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 08:50:05 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 08:50:05 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 08:50:05 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 08:50:05 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 08:50:05 CDT 2013
+ 17 Apr 08:50:05 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:50:05 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:50:05 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 08:50:05 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 08:50:05 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 08:50:05 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 08:50:05 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 08:50:05 CDT 2013
+ 17 Apr 08:50:05 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 08:50:05 CDT 2013
+ 17 Apr 08:50:05 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 08:50:23 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 08:50:23 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 08:50:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 08:50:24 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 08:50:24 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 08:50:24 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 08:50:24 CDT 2013
+ 17 Apr 08:50:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:50:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:50:24 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 08:50:24 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 08:50:24 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 08:50:24 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 08:50:24 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 08:50:24 CDT 2013
+ 17 Apr 08:50:24 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 08:50:24 CDT 2013
+ 17 Apr 08:50:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 08:51:55 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 08:51:55 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 08:51:56 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 08:51:56 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 08:51:56 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 08:51:56 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 08:51:56 CDT 2013
+ 17 Apr 08:51:56 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:51:56 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:51:56 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 08:51:56 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 08:51:56 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 08:51:56 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 08:51:56 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 08:51:56 CDT 2013
+ 17 Apr 08:51:56 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 08:51:56 CDT 2013
+ 17 Apr 08:51:56 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 08:54:04 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 08:54:04 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 08:54:05 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 08:54:05 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 08:54:05 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 08:54:05 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 08:54:05 CDT 2013
+ 17 Apr 08:54:05 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:54:05 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 08:54:05 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 08:54:05 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 08:54:05 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 08:54:05 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 08:54:05 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 08:54:05 CDT 2013
+ 17 Apr 08:54:05 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 08:54:05 CDT 2013
+ 17 Apr 08:54:05 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:03:14 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:03:14 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:03:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:03:15 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:03:15 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:03:15 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:03:15 CDT 2013
+ 17 Apr 09:03:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:03:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:03:15 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:03:15 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:03:15 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:03:15 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:03:15 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:03:15 CDT 2013
+ 17 Apr 09:03:15 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:03:15 CDT 2013
+ 17 Apr 09:03:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:07:21 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:07:21 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:07:22 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:07:22 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:07:22 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:07:22 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:07:22 CDT 2013
+ 17 Apr 09:07:22 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:07:22 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:07:22 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 09:07:22 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 09:07:22 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:07:22 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:07:22 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:07:22 CDT 2013
+ 17 Apr 09:07:22 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:07:22 CDT 2013
+ 17 Apr 09:07:22 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:11:47 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:11:47 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:11:48 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:11:48 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:11:48 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:11:48 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:11:48 CDT 2013
+ 17 Apr 09:11:48 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:11:48 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:11:48 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 09:11:48 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 09:11:48 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:11:48 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:11:48 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:11:48 CDT 2013
+ 17 Apr 09:11:48 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:11:48 CDT 2013
+ 17 Apr 09:11:48 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:22:30 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:22:30 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:22:31 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:22:31 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:22:31 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:22:31 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:22:31 CDT 2013
+ 17 Apr 09:22:31 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:22:31 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:22:31 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:22:31 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:22:31 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:22:31 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:22:31 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:22:31 CDT 2013
+ 17 Apr 09:22:31 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:22:31 CDT 2013
+ 17 Apr 09:22:31 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:25:35 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:25:35 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:25:36 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:25:36 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:25:36 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:25:36 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:25:36 CDT 2013
+ 17 Apr 09:25:36 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:25:37 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:25:37 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:25:37 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:25:37 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:25:37 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:25:37 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:25:37 CDT 2013
+ 17 Apr 09:25:37 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:25:37 CDT 2013
+ 17 Apr 09:25:37 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:38:02 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:38:02 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:38:03 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:38:03 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:38:03 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:38:03 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:38:03 CDT 2013
+ 17 Apr 09:38:03 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:38:28 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:38:28 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 09:38:28 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 09:38:28 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:38:28 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:38:28 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:38:28 CDT 2013
+ 17 Apr 09:38:28 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:38:28 CDT 2013
+ 17 Apr 09:38:28 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:39:23 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:39:23 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:39:23 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:39:23 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:39:23 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:39:23 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:39:23 CDT 2013
+ 17 Apr 09:39:23 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:39:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:39:24 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:39:24 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:39:24 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:39:24 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:39:24 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:39:24 CDT 2013
+ 17 Apr 09:39:24 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:39:24 CDT 2013
+ 17 Apr 09:39:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:40:25 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:40:25 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:40:25 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:40:25 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:40:25 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:40:25 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:40:25 CDT 2013
+ 17 Apr 09:40:25 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:40:25 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:40:25 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:40:25 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:40:25 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:40:25 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:40:25 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:40:25 CDT 2013
+ 17 Apr 09:40:25 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:40:25 CDT 2013
+ 17 Apr 09:40:25 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:42:18 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:42:18 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:42:19 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:42:19 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:42:19 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:42:19 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:42:19 CDT 2013
+ 17 Apr 09:42:19 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:42:19 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:42:19 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:42:19 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:42:19 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:42:19 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:42:19 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:42:19 CDT 2013
+ 17 Apr 09:42:19 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:42:19 CDT 2013
+ 17 Apr 09:42:19 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:44:17 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:44:17 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:44:18 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:44:18 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:44:18 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:44:18 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:44:18 CDT 2013
+ 17 Apr 09:44:18 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:44:18 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:44:18 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:44:18 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:44:18 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:44:18 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:44:18 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:44:18 CDT 2013
+ 17 Apr 09:44:18 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:44:18 CDT 2013
+ 17 Apr 09:44:18 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:45:25 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:45:25 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:45:25 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:45:25 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:45:25 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:45:25 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:45:25 CDT 2013
+ 17 Apr 09:45:25 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:45:26 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:45:26 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:45:26 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:45:26 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:45:26 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:45:26 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:45:26 CDT 2013
+ 17 Apr 09:45:26 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:45:26 CDT 2013
+ 17 Apr 09:45:26 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:47:00 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:47:00 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:47:01 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:47:01 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:47:01 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:47:01 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:47:01 CDT 2013
+ 17 Apr 09:47:01 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:47:01 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:47:01 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:47:01 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:47:01 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:47:01 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:47:01 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:47:01 CDT 2013
+ 17 Apr 09:47:01 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:47:01 CDT 2013
+ 17 Apr 09:47:01 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:47:42 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 09:47:42 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:47:43 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:47:43 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:47:43 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:47:43 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:47:43 CDT 2013
+ 17 Apr 09:47:43 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:48:26 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 09:48:26 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:48:28 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:48:28 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:48:28 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:48:28 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:48:28 CDT 2013
+ 17 Apr 09:48:28 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:49:07 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 09:49:07 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:49:07 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:49:07 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:49:07 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:49:07 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:49:07 CDT 2013
+ 17 Apr 09:49:07 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:50:32 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 09:50:32 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:50:33 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:50:33 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:50:33 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:50:33 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:50:33 CDT 2013
+ 17 Apr 09:50:33 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:52:17 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 09:52:17 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:52:18 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:52:18 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:52:18 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:52:18 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:52:18 CDT 2013
+ 17 Apr 09:52:18 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:52:18 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 09:52:18 CDT 2013
+ 17 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 09:52:18 CDT 2013
+ 17 Apr 09:52:18 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:53:05 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 09:53:05 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:53:06 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:53:06 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:53:06 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:53:06 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:53:06 CDT 2013
+ 17 Apr 09:53:06 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:55:01 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 09:55:01 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:55:02 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:55:02 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:55:02 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:55:02 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:55:02 CDT 2013
+ 17 Apr 09:55:02 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 09:59:07 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 09:59:07 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 09:59:08 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 09:59:08 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 09:59:08 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 09:59:08 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 09:59:08 CDT 2013
+ 17 Apr 09:59:08 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:00:58 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 10:00:58 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:01:00 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:01:00 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:01:00 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:01:00 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:01:00 CDT 2013
+ 17 Apr 10:01:00 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:08:46 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:08:46 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:08:47 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:08:47 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:08:47 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:08:47 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:08:47 CDT 2013
+ 17 Apr 10:08:47 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:08:48 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:08:48 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:08:48 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:08:48 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:08:48 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:08:48 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:08:48 CDT 2013
+ 17 Apr 10:08:48 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:08:48 CDT 2013
+ 17 Apr 10:08:48 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:09:47 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:09:47 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:09:48 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:09:48 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:09:48 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:09:48 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:09:48 CDT 2013
+ 17 Apr 10:09:48 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:09:49 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:09:49 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:09:49 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:09:49 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:09:49 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:09:49 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:09:49 CDT 2013
+ 17 Apr 10:09:49 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:09:49 CDT 2013
+ 17 Apr 10:09:49 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:11:20 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:11:20 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:11:21 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:11:21 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:11:21 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:11:21 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:11:21 CDT 2013
+ 17 Apr 10:11:21 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:11:22 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:11:22 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:11:22 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:11:22 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:11:22 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:11:22 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:11:22 CDT 2013
+ 17 Apr 10:11:22 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:11:22 CDT 2013
+ 17 Apr 10:11:22 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:12:29 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:12:29 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:12:30 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:12:30 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:12:30 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:12:30 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:12:30 CDT 2013
+ 17 Apr 10:12:30 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:12:30 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:12:30 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:12:30 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:12:30 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:12:30 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:12:30 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:12:30 CDT 2013
+ 17 Apr 10:12:30 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:12:30 CDT 2013
+ 17 Apr 10:12:30 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:12:47 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:12:47 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:12:48 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:12:48 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:12:48 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:12:48 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:12:48 CDT 2013
+ 17 Apr 10:12:48 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:12:48 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:12:48 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:12:48 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:12:48 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:12:48 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:12:48 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:12:48 CDT 2013
+ 17 Apr 10:12:48 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:12:48 CDT 2013
+ 17 Apr 10:12:48 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:14:23 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:14:23 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:14:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:14:24 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:14:24 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:14:24 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:14:24 CDT 2013
+ 17 Apr 10:14:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:14:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:14:24 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:14:24 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:14:24 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:14:24 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:14:24 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:14:24 CDT 2013
+ 17 Apr 10:14:24 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:14:24 CDT 2013
+ 17 Apr 10:14:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:19:12 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:19:12 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:19:13 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:19:13 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:19:13 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:19:13 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:19:13 CDT 2013
+ 17 Apr 10:19:13 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:19:13 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:19:13 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:19:13 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:19:13 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:19:13 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:19:13 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:19:13 CDT 2013
+ 17 Apr 10:19:13 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:19:13 CDT 2013
+ 17 Apr 10:19:13 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:19:52 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:19:52 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:19:53 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:19:53 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:19:53 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:19:53 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:19:53 CDT 2013
+ 17 Apr 10:19:53 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:19:58 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:19:58 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 10:19:58 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 10:19:58 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:19:58 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:19:58 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:19:58 CDT 2013
+ 17 Apr 10:19:58 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:19:58 CDT 2013
+ 17 Apr 10:19:58 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:21:20 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:21:20 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:21:21 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:21:21 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:21:21 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:21:21 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:21:21 CDT 2013
+ 17 Apr 10:21:21 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:21:42 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:21:42 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 10:21:42 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 10:21:42 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:21:42 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:21:42 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:21:42 CDT 2013
+ 17 Apr 10:21:42 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:21:42 CDT 2013
+ 17 Apr 10:21:42 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:22:03 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:22:03 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:22:04 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:22:04 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:22:04 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:22:04 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:22:04 CDT 2013
+ 17 Apr 10:22:04 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:22:25 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:22:25 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 10:22:25 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 10:22:25 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:22:25 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:22:25 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:22:25 CDT 2013
+ 17 Apr 10:22:25 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:22:25 CDT 2013
+ 17 Apr 10:22:25 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:24:10 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:24:10 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:24:11 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:24:11 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:24:11 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:24:11 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:24:11 CDT 2013
+ 17 Apr 10:24:11 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:24:32 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:24:32 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 10:24:32 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 10:24:32 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:24:32 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:24:32 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:24:32 CDT 2013
+ 17 Apr 10:24:32 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:24:32 CDT 2013
+ 17 Apr 10:24:32 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:26:23 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:26:23 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:26:25 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:26:25 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:26:25 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:26:25 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:26:25 CDT 2013
+ 17 Apr 10:26:25 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:26:25 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:26:25 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:26:25 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:26:25 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:26:25 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:26:25 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:26:25 CDT 2013
+ 17 Apr 10:26:25 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:26:25 CDT 2013
+ 17 Apr 10:26:25 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:27:54 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:27:54 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:27:55 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:27:55 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:27:55 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:27:55 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:27:55 CDT 2013
+ 17 Apr 10:27:55 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:27:55 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:27:55 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:27:55 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:27:55 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:27:55 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:27:55 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:27:55 CDT 2013
+ 17 Apr 10:27:55 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:27:55 CDT 2013
+ 17 Apr 10:27:55 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:29:01 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:29:01 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:29:02 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:29:02 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:29:02 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:29:02 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:29:02 CDT 2013
+ 17 Apr 10:29:02 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:29:03 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:29:03 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:29:03 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:29:03 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:29:03 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:29:03 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:29:03 CDT 2013
+ 17 Apr 10:29:03 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:29:03 CDT 2013
+ 17 Apr 10:29:03 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:30:19 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:30:19 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:30:20 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:30:20 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:30:20 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:30:20 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:30:20 CDT 2013
+ 17 Apr 10:30:20 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:30:20 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:30:20 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:30:20 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:30:20 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:30:20 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:30:20 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:30:20 CDT 2013
+ 17 Apr 10:30:20 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:30:20 CDT 2013
+ 17 Apr 10:30:20 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:31:42 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:31:42 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:31:43 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:31:43 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:31:43 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:31:43 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:31:43 CDT 2013
+ 17 Apr 10:31:43 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:31:43 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:31:43 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:31:43 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:31:43 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:31:43 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:31:43 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:31:43 CDT 2013
+ 17 Apr 10:31:43 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:31:43 CDT 2013
+ 17 Apr 10:31:43 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:32:45 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:32:45 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:32:46 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:32:46 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:32:46 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:32:46 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:32:46 CDT 2013
+ 17 Apr 10:32:46 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:32:47 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:32:47 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:32:47 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:32:47 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:32:47 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:32:47 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:32:47 CDT 2013
+ 17 Apr 10:32:47 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:32:47 CDT 2013
+ 17 Apr 10:32:47 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:34:43 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 10:34:43 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:34:44 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:34:44 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:34:44 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:34:44 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:34:44 CDT 2013
+ 17 Apr 10:34:44 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:35:26 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 10:35:26 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:35:27 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:35:27 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:35:27 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:35:27 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:35:27 CDT 2013
+ 17 Apr 10:35:27 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:35:28 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:35:28 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:35:28 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:35:28 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:35:28 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:35:28 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:35:28 CDT 2013
+ 17 Apr 10:35:28 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:35:28 CDT 2013
+ 17 Apr 10:35:28 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:36:57 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 10:36:57 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:36:58 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:36:58 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:36:58 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:36:58 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:36:58 CDT 2013
+ 17 Apr 10:36:58 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:36:59 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:36:59 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:36:59 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:36:59 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:36:59 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:36:59 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:36:59 CDT 2013
+ 17 Apr 10:36:59 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:36:59 CDT 2013
+ 17 Apr 10:36:59 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:37:30 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 10:37:30 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:37:31 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:37:31 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:37:31 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:37:31 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:37:31 CDT 2013
+ 17 Apr 10:37:31 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:38:15 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:38:15 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:38:16 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:38:16 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:38:16 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:38:16 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:38:16 CDT 2013
+ 17 Apr 10:38:16 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:38:16 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:38:16 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:38:16 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:38:16 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:38:16 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:38:16 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:38:16 CDT 2013
+ 17 Apr 10:38:16 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:38:16 CDT 2013
+ 17 Apr 10:38:16 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:42:42 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:42:42 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:42:43 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:42:43 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:42:43 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:42:43 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:42:43 CDT 2013
+ 17 Apr 10:42:43 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:42:43 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:42:43 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:42:43 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:42:43 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:42:43 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:42:43 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:42:43 CDT 2013
+ 17 Apr 10:42:43 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:42:43 CDT 2013
+ 17 Apr 10:42:43 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:43:49 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:43:49 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:43:50 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:43:50 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:43:50 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:43:50 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:43:50 CDT 2013
+ 17 Apr 10:43:50 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:43:51 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:43:51 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:43:51 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:43:51 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:43:51 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:43:51 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:43:51 CDT 2013
+ 17 Apr 10:43:51 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:43:51 CDT 2013
+ 17 Apr 10:43:51 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:44:35 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:44:35 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:44:37 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:44:37 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:44:37 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:44:37 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:44:37 CDT 2013
+ 17 Apr 10:44:37 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:44:37 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:44:37 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:44:37 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:44:37 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:44:37 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:44:37 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:44:37 CDT 2013
+ 17 Apr 10:44:37 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:44:37 CDT 2013
+ 17 Apr 10:44:37 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:49:33 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:49:33 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:49:35 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:49:35 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:49:35 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:49:35 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:49:35 CDT 2013
+ 17 Apr 10:49:35 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:49:35 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:49:35 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:49:35 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:49:35 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:49:35 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:49:35 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:49:35 CDT 2013
+ 17 Apr 10:49:35 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:49:35 CDT 2013
+ 17 Apr 10:49:35 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:50:32 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:50:32 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:50:33 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:50:33 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:50:33 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:50:33 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:50:33 CDT 2013
+ 17 Apr 10:50:33 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:50:34 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:50:34 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:50:34 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:50:34 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:50:34 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:50:34 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:50:34 CDT 2013
+ 17 Apr 10:50:34 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:50:34 CDT 2013
+ 17 Apr 10:50:34 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:51:13 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:51:13 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:51:14 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:51:14 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:51:14 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:51:14 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:51:14 CDT 2013
+ 17 Apr 10:51:14 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:51:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:51:15 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:51:15 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:51:15 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:51:15 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:51:15 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:51:15 CDT 2013
+ 17 Apr 10:51:15 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:51:15 CDT 2013
+ 17 Apr 10:51:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:51:36 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:51:36 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:51:37 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:51:37 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:51:37 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:51:37 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:51:37 CDT 2013
+ 17 Apr 10:51:37 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:51:37 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:51:37 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:51:37 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:51:37 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:51:37 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:51:37 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:51:37 CDT 2013
+ 17 Apr 10:51:37 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:51:37 CDT 2013
+ 17 Apr 10:51:37 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:54:13 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:54:13 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:54:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:54:15 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:54:15 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:54:15 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:54:15 CDT 2013
+ 17 Apr 10:54:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:54:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:54:15 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 10:54:15 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 10:54:15 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 10:54:15 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 10:54:15 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 10:54:15 CDT 2013
+ 17 Apr 10:54:15 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 10:54:15 CDT 2013
+ 17 Apr 10:54:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:55:33 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 10:55:33 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 10:55:34 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 10:55:34 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 10:55:34 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 10:55:34 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 10:55:34 CDT 2013
+ 17 Apr 10:55:34 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 10:56:16 LogHelper | logStepStatus | - 04/17/2013 10:56:16 AM|Check|impersonatePage|1|FAIL|ELEMENT role NOT FOUND
+ 17 Apr 11:08:13 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:08:13 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:08:14 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:08:14 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:08:14 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:08:14 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:08:14 CDT 2013
+ 17 Apr 11:08:14 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:08:14 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:08:14 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 11:08:14 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 11:08:14 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 11:08:14 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 11:08:14 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 11:08:14 CDT 2013
+ 17 Apr 11:08:14 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 11:08:14 CDT 2013
+ 17 Apr 11:08:14 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:08:32 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:08:32 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:08:33 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:08:33 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:08:33 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:08:33 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:08:33 CDT 2013
+ 17 Apr 11:08:33 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:08:33 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:08:33 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 11:08:33 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 11:08:33 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 11:08:33 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 11:08:33 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 11:08:33 CDT 2013
+ 17 Apr 11:08:33 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 11:08:33 CDT 2013
+ 17 Apr 11:08:33 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:10:56 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:10:56 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:10:57 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:10:57 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:10:57 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:10:57 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:10:57 CDT 2013
+ 17 Apr 11:10:57 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:11:39 LogHelper | logStepStatus | - 04/17/2013 11:11:39 AM|Check|impersonatePage|1|FAIL|ELEMENT targetsystem NOT FOUND
+ 17 Apr 11:13:51 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:13:51 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:13:52 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:13:52 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:13:52 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:13:52 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:13:52 CDT 2013
+ 17 Apr 11:13:52 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:14:13 LogHelper | logStepStatus | - 04/17/2013 11:14:13 AM|Check|impersonatePage|1|FAIL|ELEMENT targetsystem NOT FOUND
+ 17 Apr 11:16:54 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 11:16:54 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:16:56 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:16:56 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:16:56 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:16:56 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:16:56 CDT 2013
+ 17 Apr 11:16:56 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:17:42 LogHelper | logStepStatus | - 04/17/2013 11:17:42 AM|Check|impersonatePage|1|FAIL|ELEMENT targetsystem NOT FOUND
+ 17 Apr 11:19:08 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 11:19:08 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:19:09 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:19:09 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:19:09 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:19:09 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:19:09 CDT 2013
+ 17 Apr 11:19:09 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:21:23 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:21:23 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:21:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:21:24 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:21:24 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:21:24 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:21:24 CDT 2013
+ 17 Apr 11:21:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:21:47 LogHelper | logStepStatus | - 04/17/2013 11:21:47 AM|Check|impersonatePage|1|FAIL|ELEMENT targetsystem NOT FOUND
+ 17 Apr 11:26:51 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:26:51 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:26:53 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:26:53 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:26:53 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:26:53 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:26:53 CDT 2013
+ 17 Apr 11:26:53 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:28:47 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:28:47 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:28:48 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:28:48 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:28:48 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:28:48 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:28:48 CDT 2013
+ 17 Apr 11:28:48 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:28:53 LogHelper | logStepStatus | - 04/17/2013 11:28:53 AM|Check|impersonatePage|1|FAIL|ELEMENT targetSystem NOT FOUND
+ 17 Apr 11:30:36 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:30:36 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:30:37 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:30:37 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:30:37 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:30:37 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:30:37 CDT 2013
+ 17 Apr 11:30:37 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:30:41 LogHelper | logStepStatus | - 04/17/2013 11:30:41 AM|Check|impersonatePage|1|FAIL|ELEMENT targetSystem NOT FOUND
+ 17 Apr 11:32:09 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:32:09 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:32:10 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:32:10 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:32:10 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:32:10 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:32:10 CDT 2013
+ 17 Apr 11:32:10 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:32:14 LogHelper | logStepStatus | - 04/17/2013 11:32:14 AM|Check|impersonatePage|1|FAIL|ELEMENT targetSystem NOT FOUND
+ 17 Apr 11:33:18 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:33:18 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:33:19 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:33:19 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:33:19 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:33:19 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:33:19 CDT 2013
+ 17 Apr 11:33:19 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:33:23 LogHelper | logStepStatus | - 04/17/2013 11:33:23 AM|Check|impersonatePage|1|FAIL|ELEMENT targetSystem NOT FOUND
+ 17 Apr 11:34:15 DefaultRequestDirector | tryExecute | - I/O exception (java.net.SocketException) caught when processing request: Software caused connection abort: recv failed
+ 17 Apr 11:34:15 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:34:16 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:34:16 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:34:16 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:34:16 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:34:16 CDT 2013
+ 17 Apr 11:34:16 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:35:15 LogHelper | logStepStatus | - 04/17/2013 11:35:15 AM|Check|impersonatePage|1|FAIL|ELEMENT targetSystem NOT FOUND
+ 17 Apr 11:38:30 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:38:30 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:38:31 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:38:31 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:38:31 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:38:31 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:38:31 CDT 2013
+ 17 Apr 11:38:31 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:38:57 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:38:57 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:38:58 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:38:58 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:38:58 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:38:58 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:38:58 CDT 2013
+ 17 Apr 11:38:58 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:39:05 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:39:05 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 11:39:05 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 11:39:05 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 11:39:05 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 11:39:05 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 11:39:05 CDT 2013
+ 17 Apr 11:39:05 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 11:39:05 CDT 2013
+ 17 Apr 11:39:05 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:50:30 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:50:30 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:50:30 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:50:30 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:50:30 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:50:30 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:50:30 CDT 2013
+ 17 Apr 11:50:30 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:50:38 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:50:38 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 11:50:38 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 11:50:38 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 11:50:38 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 11:50:38 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 11:50:38 CDT 2013
+ 17 Apr 11:50:38 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 11:50:38 CDT 2013
+ 17 Apr 11:50:38 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:58:48 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 11:58:48 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 11:58:49 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 11:58:49 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 11:58:49 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 11:58:49 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 11:58:49 CDT 2013
+ 17 Apr 11:58:49 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:58:56 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 11:58:56 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 11:58:56 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 11:58:56 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 11:58:56 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 11:58:56 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 11:58:56 CDT 2013
+ 17 Apr 11:58:56 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 11:58:56 CDT 2013
+ 17 Apr 11:58:56 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:00:19 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 12:00:19 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 12:00:20 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:00:20 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 12:00:20 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 12:00:20 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 12:00:20 CDT 2013
+ 17 Apr 12:00:20 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:00:27 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:00:27 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 12:00:27 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 12:00:27 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 12:00:27 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 12:00:27 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 12:00:27 CDT 2013
+ 17 Apr 12:00:27 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 12:00:27 CDT 2013
+ 17 Apr 12:00:27 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:02:54 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 12:02:54 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 12:02:55 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:02:55 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 12:02:55 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 12:02:55 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 12:02:55 CDT 2013
+ 17 Apr 12:02:55 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:03:02 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:03:02 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 12:03:02 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 12:03:02 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 12:03:02 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 12:03:02 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 12:03:02 CDT 2013
+ 17 Apr 12:03:02 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 12:03:02 CDT 2013
+ 17 Apr 12:03:02 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:08:39 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 12:08:39 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 12:08:39 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:08:39 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 12:08:39 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 12:08:39 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 12:08:39 CDT 2013
+ 17 Apr 12:08:39 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:08:53 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:08:53 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 12:08:53 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 12:08:53 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 12:08:53 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 12:08:53 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 12:08:53 CDT 2013
+ 17 Apr 12:08:53 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 12:08:53 CDT 2013
+ 17 Apr 12:08:53 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:12:03 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 12:12:03 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 12:12:04 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 12:12:04 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 12:12:04 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 12:12:04 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 12:12:04 CDT 2013
+ 17 Apr 12:12:04 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:12:18 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 12:12:18 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 12:12:18 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 12:12:18 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 12:12:18 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 12:12:18 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 12:12:18 CDT 2013
+ 17 Apr 12:12:18 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 12:12:18 CDT 2013
+ 17 Apr 12:12:18 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:14:46 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 13:14:46 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 13:14:47 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:14:47 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 13:14:47 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 13:14:47 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 13:14:47 CDT 2013
+ 17 Apr 13:14:47 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:14:47 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:14:47 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 13:14:47 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 13:14:47 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 13:14:47 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 13:14:47 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 13:14:47 CDT 2013
+ 17 Apr 13:14:47 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 13:14:47 CDT 2013
+ 17 Apr 13:14:47 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:15:38 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 13:15:38 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 13:15:39 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:15:39 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 13:15:39 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 13:15:39 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 13:15:39 CDT 2013
+ 17 Apr 13:15:39 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:16:20 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:16:20 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 13:16:20 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 13:16:20 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 13:16:20 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 13:16:20 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 13:16:20 CDT 2013
+ 17 Apr 13:16:20 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 13:16:20 CDT 2013
+ 17 Apr 13:16:20 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:18:12 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 13:18:12 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 13:18:12 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:18:12 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 13:18:12 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 13:18:12 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 13:18:12 CDT 2013
+ 17 Apr 13:18:12 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:19:31 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:19:31 LogHelper | logTestCaseFooter | - Test Case Checks  = 0
+ 17 Apr 13:19:31 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 13:19:31 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 13:19:31 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 13:19:31 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 13:19:31 CDT 2013
+ 17 Apr 13:19:31 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 13:19:31 CDT 2013
+ 17 Apr 13:19:31 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:40:31 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 13:40:31 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 13:40:32 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:40:32 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 13:40:32 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 13:40:32 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 13:40:32 CDT 2013
+ 17 Apr 13:40:32 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:41:50 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:41:50 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 13:41:50 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 13:41:50 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 13:41:50 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 13:41:50 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 13:41:50 CDT 2013
+ 17 Apr 13:41:50 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 13:41:50 CDT 2013
+ 17 Apr 13:41:50 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:43:35 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 13:43:35 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 13:43:36 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:43:36 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 13:43:36 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 13:43:36 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 13:43:36 CDT 2013
+ 17 Apr 13:43:36 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:44:53 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:44:53 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 13:44:53 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 13:44:53 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 13:44:53 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 13:44:53 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 13:44:53 CDT 2013
+ 17 Apr 13:44:53 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 13:44:53 CDT 2013
+ 17 Apr 13:44:53 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:50:03 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 13:50:03 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 13:50:04 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:50:04 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 13:50:04 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 13:50:04 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 13:50:04 CDT 2013
+ 17 Apr 13:50:04 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:51:21 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:51:21 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 13:51:21 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 13:51:21 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 13:51:21 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 13:51:21 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 13:51:21 CDT 2013
+ 17 Apr 13:51:21 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 13:51:21 CDT 2013
+ 17 Apr 13:51:21 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:52:36 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 13:52:36 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 13:52:37 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 13:52:37 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 13:52:37 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 13:52:37 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 13:52:37 CDT 2013
+ 17 Apr 13:52:37 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 13:53:55 LogHelper | logStepStatus | - 04/17/2013 01:53:55 PM|Check|impersonatePage|1|FAIL|ELEMENT //input[@value=\"CS\"] NOT FOUND
+ 17 Apr 14:01:06 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 14:01:06 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 14:01:06 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:01:06 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 14:01:06 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 14:01:06 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 14:01:06 CDT 2013
+ 17 Apr 14:01:06 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:02:24 LogHelper | logStepStatus | - 04/17/2013 02:02:24 PM|Check|impersonatePage|1|FAIL|ELEMENT //input[@value=\"CS\"] NOT FOUND
+ 17 Apr 14:04:14 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 14:04:14 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 14:04:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:04:15 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 14:04:15 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 14:04:15 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 14:04:15 CDT 2013
+ 17 Apr 14:04:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:05:33 LogHelper | logStepStatus | - 04/17/2013 02:05:33 PM|Check|impersonatePage|1|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 17 Apr 14:05:38 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:05:38 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 14:05:38 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 14:05:38 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 14:05:38 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 17 Apr 14:05:38 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 14:05:38 CDT 2013
+ 17 Apr 14:05:38 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 14:05:38 CDT 2013
+ 17 Apr 14:05:38 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:36:27 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 14:36:27 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 14:36:28 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:36:28 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 14:36:28 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 14:36:28 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 14:36:28 CDT 2013
+ 17 Apr 14:36:28 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:37:46 LogHelper | logStepStatus | - 04/17/2013 02:37:46 PM|Check|impersonatePage|1|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 17 Apr 14:37:51 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:37:51 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 14:37:51 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 14:37:51 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 14:37:51 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 17 Apr 14:37:51 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 14:37:51 CDT 2013
+ 17 Apr 14:37:51 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 14:37:51 CDT 2013
+ 17 Apr 14:37:51 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:40:14 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 14:40:14 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 14:40:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:40:15 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 14:40:15 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 14:40:15 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 14:40:15 CDT 2013
+ 17 Apr 14:40:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:41:32 LogHelper | logStepStatus | - 04/17/2013 02:41:32 PM|Check|impersonatePage|1|FAIL|ELEMENT //input[@value=\"CS\"] NOT FOUND
+ 17 Apr 14:42:00 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 14:42:00 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 14:42:01 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:42:01 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 14:42:01 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 14:42:01 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 14:42:01 CDT 2013
+ 17 Apr 14:42:01 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:43:19 LogHelper | logStepStatus | - 04/17/2013 02:43:19 PM|Check|impersonatePage|1|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 17 Apr 14:43:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:43:24 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 14:43:24 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 17 Apr 14:43:24 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 14:43:24 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 17 Apr 14:43:24 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 14:43:24 CDT 2013
+ 17 Apr 14:43:24 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 14:43:24 CDT 2013
+ 17 Apr 14:43:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:44:48 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 17 Apr 14:44:48 DefaultRequestDirector | tryExecute | - Retrying request
+ 17 Apr 14:44:49 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 17 Apr 14:44:49 LogHelper | logTestCaseHeader | - Test Case Id    = impersonatePage
+ 17 Apr 14:44:49 LogHelper | logTestCaseHeader | - Test Case Desc  = Validates
+ 17 Apr 14:44:49 LogHelper | logTestCaseHeader | - Test Case Start = Wed Apr 17 14:44:49 CDT 2013
+ 17 Apr 14:44:49 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:46:07 LogHelper | logStepStatus | - 04/17/2013 02:46:07 PM|Check|impersonatePage|1|FAIL|Checking Customer Search radio button is not selected, Expected [true] Actual [false]
+ 17 Apr 14:46:12 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 17 Apr 14:46:12 LogHelper | logTestCaseFooter | - Test Case Checks  = 1
+ 17 Apr 14:46:12 LogHelper | logTestCaseFooter | - Test Case Errors  = 1
+ 17 Apr 14:46:12 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 17 Apr 14:46:12 LogHelper | logTestCaseFooter | - Test Case Status  = FAIL
+ 17 Apr 14:46:12 LogHelper | logTestCaseFooter | - Test Case Time 	= Wed Apr 17 14:46:12 CDT 2013
+ 17 Apr 14:46:12 LogHelper | logTestCaseFooter | - Test Case End 	= Wed Apr 17 14:46:12 CDT 2013
+ 17 Apr 14:46:12 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 

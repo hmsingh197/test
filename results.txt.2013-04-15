@@ -1,0 +1,326 @@
+15 Apr 09:20:34 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 09:20:34 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 09:20:34 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:20:34 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 09:20:34 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 09:20:34 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 09:20:34 CDT 2013
+ 15 Apr 09:20:34 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:20:38 LogHelper | logStepStatus | - 04/15/2013 09:20:38 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 09:20:53 LogHelper | logStepStatus | - 04/15/2013 09:20:53 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:20:54 LogHelper | logStepStatus | - 04/15/2013 09:20:54 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:20:54 LogHelper | logStepStatus | - 04/15/2013 09:20:54 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:20:54 LogHelper | logStepStatus | - 04/15/2013 09:20:54 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:20:54 LogHelper | logStepStatus | - 04/15/2013 09:20:54 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 09:20:54 LogHelper | logStepStatus | - 04/15/2013 09:20:54 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 09:20:55 LogHelper | logStepStatus | - 04/15/2013 09:20:55 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 09:20:55 LogHelper | logStepStatus | - 04/15/2013 09:20:55 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:20:55 LogHelper | logStepStatus | - 04/15/2013 09:20:55 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:20:56 LogHelper | logStepStatus | - 04/15/2013 09:20:56 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:20:56 LogHelper | logStepStatus | - 04/15/2013 09:20:56 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:20:56 LogHelper | logStepStatus | - 04/15/2013 09:20:56 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:20:56 LogHelper | logStepStatus | - 04/15/2013 09:20:56 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 09:20:56 LogHelper | logStepStatus | - 04/15/2013 09:20:56 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:20:57 LogHelper | logStepStatus | - 04/15/2013 09:20:57 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:21:17 LogHelper | logStepStatus | - 04/15/2013 09:21:17 AM|Check|ScenarioID 2 Test Case|17|FAIL|ELEMENT scustomerSearchCriteriaBean.policyAsOfDateMM NOT FOUND
+ 15 Apr 09:22:52 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 09:22:52 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 09:22:53 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:22:53 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 09:22:53 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 09:22:53 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 09:22:53 CDT 2013
+ 15 Apr 09:22:53 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:22:55 LogHelper | logStepStatus | - 04/15/2013 09:22:55 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 09:23:09 LogHelper | logStepStatus | - 04/15/2013 09:23:09 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:23:09 LogHelper | logStepStatus | - 04/15/2013 09:23:09 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:23:10 LogHelper | logStepStatus | - 04/15/2013 09:23:10 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:23:10 LogHelper | logStepStatus | - 04/15/2013 09:23:10 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:23:10 LogHelper | logStepStatus | - 04/15/2013 09:23:10 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 09:23:10 LogHelper | logStepStatus | - 04/15/2013 09:23:10 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 09:23:10 LogHelper | logStepStatus | - 04/15/2013 09:23:10 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 09:23:11 LogHelper | logStepStatus | - 04/15/2013 09:23:11 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:11 LogHelper | logStepStatus | - 04/15/2013 09:23:11 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:11 LogHelper | logStepStatus | - 04/15/2013 09:23:11 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:11 LogHelper | logStepStatus | - 04/15/2013 09:23:11 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:12 LogHelper | logStepStatus | - 04/15/2013 09:23:12 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:12 LogHelper | logStepStatus | - 04/15/2013 09:23:12 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:12 LogHelper | logStepStatus | - 04/15/2013 09:23:12 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:12 LogHelper | logStepStatus | - 04/15/2013 09:23:12 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:12 LogHelper | logStepStatus | - 04/15/2013 09:23:12 AM|Check|ScenarioID 2 Test Case|17|PASS|Checking if display date Month textbox displayed Expected [true] Actual [true]
+ 15 Apr 09:23:13 LogHelper | logStepStatus | - 04/15/2013 09:23:13 AM|Check|ScenarioID 2 Test Case|18|PASS|Checking if display date date textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:13 LogHelper | logStepStatus | - 04/15/2013 09:23:13 AM|Check|ScenarioID 2 Test Case|19|PASS|Checking if display date year textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:13 LogHelper | logStepStatus | - 04/15/2013 09:23:13 AM|Check|ScenarioID 2 Test Case|20|PASS|Checking if My Location Checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:13 LogHelper | logStepStatus | - 04/15/2013 09:23:13 AM|Check|ScenarioID 2 Test Case|21|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:23:14 LogHelper | logStepStatus | - 04/15/2013 09:23:14 AM|Check|ScenarioID 2 Test Case|22|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:23:14 LogHelper | logStepStatus | - 04/15/2013 09:23:14 AM|Check|ScenarioID 2 Test Case|23|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:23:15 LogHelper | logStepStatus | - 04/15/2013 09:23:15 AM|Check|ScenarioID 2 Test Case|24|PASS|Checking if Subproducer Code textfield comes on clicking New Business Expected [true] Actual [true]
+ 15 Apr 09:23:15 LogHelper | logStepStatus | - 04/15/2013 09:23:15 AM|Check|ScenarioID 2 Test Case|25|PASS|Checking if Policy Numer textfield comes on clicking Endorsement Expected [true] Actual [true]
+ 15 Apr 09:23:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:23:15 LogHelper | logTestCaseFooter | - Test Case Checks  = 25
+ 15 Apr 09:23:15 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 15 Apr 09:23:15 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 15 Apr 09:23:15 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 15 Apr 09:23:15 LogHelper | logTestCaseFooter | - Test Case Time 	= Mon Apr 15 09:23:15 CDT 2013
+ 15 Apr 09:23:15 LogHelper | logTestCaseFooter | - Test Case End 	= Mon Apr 15 09:23:15 CDT 2013
+ 15 Apr 09:23:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:35:58 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 09:35:58 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 09:35:58 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:35:58 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 09:35:58 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 09:35:58 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 09:35:58 CDT 2013
+ 15 Apr 09:35:58 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:35:59 LogHelper | logStepStatus | - 04/15/2013 09:35:59 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 09:36:39 LogHelper | logStepStatus | - 04/15/2013 09:36:39 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:36:40 LogHelper | logStepStatus | - 04/15/2013 09:36:40 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:36:40 LogHelper | logStepStatus | - 04/15/2013 09:36:40 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:36:40 LogHelper | logStepStatus | - 04/15/2013 09:36:40 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:36:40 LogHelper | logStepStatus | - 04/15/2013 09:36:40 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 09:36:40 LogHelper | logStepStatus | - 04/15/2013 09:36:40 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 09:36:40 LogHelper | logStepStatus | - 04/15/2013 09:36:40 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 09:36:41 LogHelper | logStepStatus | - 04/15/2013 09:36:41 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:41 LogHelper | logStepStatus | - 04/15/2013 09:36:41 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:41 LogHelper | logStepStatus | - 04/15/2013 09:36:41 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:42 LogHelper | logStepStatus | - 04/15/2013 09:36:42 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:42 LogHelper | logStepStatus | - 04/15/2013 09:36:42 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:42 LogHelper | logStepStatus | - 04/15/2013 09:36:42 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:42 LogHelper | logStepStatus | - 04/15/2013 09:36:42 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:42 LogHelper | logStepStatus | - 04/15/2013 09:36:42 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:43 LogHelper | logStepStatus | - 04/15/2013 09:36:43 AM|Check|ScenarioID 2 Test Case|17|PASS|Checking if display date Month textbox displayed Expected [true] Actual [true]
+ 15 Apr 09:36:43 LogHelper | logStepStatus | - 04/15/2013 09:36:43 AM|Check|ScenarioID 2 Test Case|18|PASS|Checking if display date date textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:43 LogHelper | logStepStatus | - 04/15/2013 09:36:43 AM|Check|ScenarioID 2 Test Case|19|PASS|Checking if display date year textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:43 LogHelper | logStepStatus | - 04/15/2013 09:36:43 AM|Check|ScenarioID 2 Test Case|20|PASS|Checking if My Location Checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:36:43 LogHelper | logStepStatus | - 04/15/2013 09:36:43 AM|Check|ScenarioID 2 Test Case|21|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:37:09 LogHelper | logStepStatus | - 04/15/2013 09:37:09 AM|Check|ScenarioID 2 Test Case|22|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:37:09 LogHelper | logStepStatus | - 04/15/2013 09:37:09 AM|Check|ScenarioID 2 Test Case|23|PASS|Checking error message on clicking Select withoput giving Last Name : Customer Search Expected [true] Actual [true]
+ 15 Apr 09:37:10 LogHelper | logStepStatus | - 04/15/2013 09:37:10 AM|Check|ScenarioID 2 Test Case|24|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:37:10 LogHelper | logStepStatus | - 04/15/2013 09:37:10 AM|Check|ScenarioID 2 Test Case|25|PASS|Checking if Subproducer Code textfield comes on clicking New Business Expected [true] Actual [true]
+ 15 Apr 09:37:11 LogHelper | logStepStatus | - 04/15/2013 09:37:11 AM|Check|ScenarioID 2 Test Case|26|PASS|Checking if Policy Numer textfield comes on clicking Endorsement Expected [true] Actual [true]
+ 15 Apr 09:37:11 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:37:11 LogHelper | logTestCaseFooter | - Test Case Checks  = 26
+ 15 Apr 09:37:11 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 15 Apr 09:37:11 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 15 Apr 09:37:11 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 15 Apr 09:37:11 LogHelper | logTestCaseFooter | - Test Case Time 	= Mon Apr 15 09:37:11 CDT 2013
+ 15 Apr 09:37:11 LogHelper | logTestCaseFooter | - Test Case End 	= Mon Apr 15 09:37:11 CDT 2013
+ 15 Apr 09:37:11 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:37:56 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 09:37:56 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 09:37:57 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:37:57 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 09:37:57 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 09:37:57 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 09:37:57 CDT 2013
+ 15 Apr 09:37:57 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:37:58 LogHelper | logStepStatus | - 04/15/2013 09:37:58 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 09:38:38 LogHelper | logStepStatus | - 04/15/2013 09:38:38 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:38:38 LogHelper | logStepStatus | - 04/15/2013 09:38:38 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:38:39 LogHelper | logStepStatus | - 04/15/2013 09:38:39 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:38:39 LogHelper | logStepStatus | - 04/15/2013 09:38:39 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:38:39 LogHelper | logStepStatus | - 04/15/2013 09:38:39 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 09:38:39 LogHelper | logStepStatus | - 04/15/2013 09:38:39 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 09:38:39 LogHelper | logStepStatus | - 04/15/2013 09:38:39 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 09:38:40 LogHelper | logStepStatus | - 04/15/2013 09:38:40 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:40 LogHelper | logStepStatus | - 04/15/2013 09:38:40 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:40 LogHelper | logStepStatus | - 04/15/2013 09:38:40 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:40 LogHelper | logStepStatus | - 04/15/2013 09:38:40 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:41 LogHelper | logStepStatus | - 04/15/2013 09:38:41 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:41 LogHelper | logStepStatus | - 04/15/2013 09:38:41 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:41 LogHelper | logStepStatus | - 04/15/2013 09:38:41 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:41 LogHelper | logStepStatus | - 04/15/2013 09:38:41 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:41 LogHelper | logStepStatus | - 04/15/2013 09:38:41 AM|Check|ScenarioID 2 Test Case|17|PASS|Checking if display date Month textbox displayed Expected [true] Actual [true]
+ 15 Apr 09:38:42 LogHelper | logStepStatus | - 04/15/2013 09:38:42 AM|Check|ScenarioID 2 Test Case|18|PASS|Checking if display date date textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:42 LogHelper | logStepStatus | - 04/15/2013 09:38:42 AM|Check|ScenarioID 2 Test Case|19|PASS|Checking if display date year textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:42 LogHelper | logStepStatus | - 04/15/2013 09:38:42 AM|Check|ScenarioID 2 Test Case|20|PASS|Checking if My Location Checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:42 LogHelper | logStepStatus | - 04/15/2013 09:38:42 AM|Check|ScenarioID 2 Test Case|21|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:44 LogHelper | logStepStatus | - 04/15/2013 09:38:44 AM|Check|ScenarioID 2 Test Case|22|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:38:44 LogHelper | logStepStatus | - 04/15/2013 09:38:44 AM|Check|ScenarioID 2 Test Case|23|PASS|Checking error message on clicking Select withoput giving Last Name : Customer Search Expected [true] Actual [true]
+ 15 Apr 09:38:45 LogHelper | logStepStatus | - 04/15/2013 09:38:45 AM|Check|ScenarioID 2 Test Case|24|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:38:45 LogHelper | logStepStatus | - 04/15/2013 09:38:45 AM|Check|ScenarioID 2 Test Case|25|PASS|Checking if Subproducer Code textfield comes on clicking New Business Expected [true] Actual [true]
+ 15 Apr 09:38:45 LogHelper | logStepStatus | - 04/15/2013 09:38:45 AM|Check|ScenarioID 2 Test Case|26|PASS|Checking if Policy Numer textfield comes on clicking Endorsement Expected [true] Actual [true]
+ 15 Apr 09:38:45 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:38:45 LogHelper | logTestCaseFooter | - Test Case Checks  = 26
+ 15 Apr 09:38:45 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 15 Apr 09:38:45 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 15 Apr 09:38:45 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 15 Apr 09:38:45 LogHelper | logTestCaseFooter | - Test Case Time 	= Mon Apr 15 09:38:45 CDT 2013
+ 15 Apr 09:38:45 LogHelper | logTestCaseFooter | - Test Case End 	= Mon Apr 15 09:38:45 CDT 2013
+ 15 Apr 09:38:45 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:51:54 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 09:51:54 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 09:51:55 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:51:55 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 09:51:55 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 09:51:55 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 09:51:55 CDT 2013
+ 15 Apr 09:51:55 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:51:56 LogHelper | logStepStatus | - 04/15/2013 09:51:56 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 09:52:11 LogHelper | logStepStatus | - 04/15/2013 09:52:11 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:52:11 LogHelper | logStepStatus | - 04/15/2013 09:52:11 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:52:11 LogHelper | logStepStatus | - 04/15/2013 09:52:11 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:52:12 LogHelper | logStepStatus | - 04/15/2013 09:52:12 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:52:12 LogHelper | logStepStatus | - 04/15/2013 09:52:12 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 09:52:12 LogHelper | logStepStatus | - 04/15/2013 09:52:12 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 09:52:12 LogHelper | logStepStatus | - 04/15/2013 09:52:12 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 09:52:13 LogHelper | logStepStatus | - 04/15/2013 09:52:13 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:13 LogHelper | logStepStatus | - 04/15/2013 09:52:13 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:13 LogHelper | logStepStatus | - 04/15/2013 09:52:13 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:13 LogHelper | logStepStatus | - 04/15/2013 09:52:13 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:13 LogHelper | logStepStatus | - 04/15/2013 09:52:13 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:14 LogHelper | logStepStatus | - 04/15/2013 09:52:14 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:14 LogHelper | logStepStatus | - 04/15/2013 09:52:14 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:14 LogHelper | logStepStatus | - 04/15/2013 09:52:14 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:14 LogHelper | logStepStatus | - 04/15/2013 09:52:14 AM|Check|ScenarioID 2 Test Case|17|PASS|Checking if display date Month textbox displayed Expected [true] Actual [true]
+ 15 Apr 09:52:14 LogHelper | logStepStatus | - 04/15/2013 09:52:14 AM|Check|ScenarioID 2 Test Case|18|PASS|Checking if display date date textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:15 LogHelper | logStepStatus | - 04/15/2013 09:52:15 AM|Check|ScenarioID 2 Test Case|19|PASS|Checking if display date year textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:15 LogHelper | logStepStatus | - 04/15/2013 09:52:15 AM|Check|ScenarioID 2 Test Case|20|PASS|Checking if My Location Checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:15 LogHelper | logStepStatus | - 04/15/2013 09:52:15 AM|Check|ScenarioID 2 Test Case|21|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:52:16 LogHelper | logStepStatus | - 04/15/2013 09:52:16 AM|Check|ScenarioID 2 Test Case|22|PASS|Checking error message on clicking Select withoput giving Last Name : Customer Search Expected [true] Actual [true]
+ 15 Apr 09:52:17 LogHelper | logStepStatus | - 04/15/2013 09:52:17 AM|Check|ScenarioID 2 Test Case|23|PASS|Verifying error message string Expected [Last/Business Name: This information is required.] Actual [Last/Business Name: This information is required.]
+ 15 Apr 09:52:17 LogHelper | logStepStatus | - 04/15/2013 09:52:17 AM|Check|ScenarioID 2 Test Case|24|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:52:18 LogHelper | logStepStatus | - 04/15/2013 09:52:18 AM|Check|ScenarioID 2 Test Case|25|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:52:18 LogHelper | logStepStatus | - 04/15/2013 09:52:18 AM|Check|ScenarioID 2 Test Case|26|PASS|Checking if Subproducer Code textfield comes on clicking New Business Expected [true] Actual [true]
+ 15 Apr 09:52:18 LogHelper | logStepStatus | - 04/15/2013 09:52:18 AM|Check|ScenarioID 2 Test Case|27|PASS|Checking if Policy Numer textfield comes on clicking Endorsement Expected [true] Actual [true]
+ 15 Apr 09:52:18 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Checks  = 27
+ 15 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 15 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 15 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 15 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case Time 	= Mon Apr 15 09:52:18 CDT 2013
+ 15 Apr 09:52:18 LogHelper | logTestCaseFooter | - Test Case End 	= Mon Apr 15 09:52:18 CDT 2013
+ 15 Apr 09:52:18 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:55:15 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 09:55:15 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 09:55:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:55:15 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 09:55:15 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 09:55:15 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 09:55:15 CDT 2013
+ 15 Apr 09:55:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:55:16 LogHelper | logStepStatus | - 04/15/2013 09:55:16 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 09:55:52 LogHelper | logStepStatus | - 04/15/2013 09:55:52 AM|Check|ScenarioID 2 Test Case|2|FAIL|ELEMENT //input[@value="CS"] NOT FOUND
+ 15 Apr 09:56:14 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 09:56:14 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 09:56:15 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 09:56:15 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 09:56:15 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 09:56:15 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 09:56:15 CDT 2013
+ 15 Apr 09:56:15 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:56:16 LogHelper | logStepStatus | - 04/15/2013 09:56:16 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 09:56:32 LogHelper | logStepStatus | - 04/15/2013 09:56:32 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:56:32 LogHelper | logStepStatus | - 04/15/2013 09:56:32 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:56:32 LogHelper | logStepStatus | - 04/15/2013 09:56:32 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:56:32 LogHelper | logStepStatus | - 04/15/2013 09:56:32 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 09:56:33 LogHelper | logStepStatus | - 04/15/2013 09:56:33 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 09:56:33 LogHelper | logStepStatus | - 04/15/2013 09:56:33 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 09:56:33 LogHelper | logStepStatus | - 04/15/2013 09:56:33 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 09:56:33 LogHelper | logStepStatus | - 04/15/2013 09:56:33 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:34 LogHelper | logStepStatus | - 04/15/2013 09:56:34 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:34 LogHelper | logStepStatus | - 04/15/2013 09:56:34 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:34 LogHelper | logStepStatus | - 04/15/2013 09:56:34 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:34 LogHelper | logStepStatus | - 04/15/2013 09:56:34 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:34 LogHelper | logStepStatus | - 04/15/2013 09:56:34 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:35 LogHelper | logStepStatus | - 04/15/2013 09:56:35 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:35 LogHelper | logStepStatus | - 04/15/2013 09:56:35 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:35 LogHelper | logStepStatus | - 04/15/2013 09:56:35 AM|Check|ScenarioID 2 Test Case|17|PASS|Checking if display date Month textbox displayed Expected [true] Actual [true]
+ 15 Apr 09:56:35 LogHelper | logStepStatus | - 04/15/2013 09:56:35 AM|Check|ScenarioID 2 Test Case|18|PASS|Checking if display date date textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:35 LogHelper | logStepStatus | - 04/15/2013 09:56:35 AM|Check|ScenarioID 2 Test Case|19|PASS|Checking if display date year textbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:36 LogHelper | logStepStatus | - 04/15/2013 09:56:36 AM|Check|ScenarioID 2 Test Case|20|PASS|Checking if My Location Checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:36 LogHelper | logStepStatus | - 04/15/2013 09:56:36 AM|Check|ScenarioID 2 Test Case|21|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 09:56:37 LogHelper | logStepStatus | - 04/15/2013 09:56:37 AM|Check|ScenarioID 2 Test Case|22|PASS|Checking error message on clicking Select withoput giving Last Name : Customer Search Expected [true] Actual [true]
+ 15 Apr 09:56:37 LogHelper | logStepStatus | - 04/15/2013 09:56:37 AM|Check|ScenarioID 2 Test Case|23|PASS|Verifying error message string Expected [Last/Business Name: This information is required.] Actual [Last/Business Name: This information is required.]
+ 15 Apr 09:56:38 LogHelper | logStepStatus | - 04/15/2013 09:56:38 AM|Check|ScenarioID 2 Test Case|24|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:56:38 LogHelper | logStepStatus | - 04/15/2013 09:56:38 AM|Check|ScenarioID 2 Test Case|25|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 09:56:39 LogHelper | logStepStatus | - 04/15/2013 09:56:39 AM|Check|ScenarioID 2 Test Case|26|PASS|Checking if Subproducer Code textfield comes on clicking New Business Expected [true] Actual [true]
+ 15 Apr 09:56:39 LogHelper | logStepStatus | - 04/15/2013 09:56:39 AM|Check|ScenarioID 2 Test Case|27|PASS|Checking if Policy Numer textfield comes on clicking Endorsement Expected [true] Actual [true]
+ 15 Apr 09:56:39 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 09:56:39 LogHelper | logTestCaseFooter | - Test Case Checks  = 27
+ 15 Apr 09:56:39 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 15 Apr 09:56:39 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 15 Apr 09:56:39 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 15 Apr 09:56:39 LogHelper | logTestCaseFooter | - Test Case Time 	= Mon Apr 15 09:56:39 CDT 2013
+ 15 Apr 09:56:39 LogHelper | logTestCaseFooter | - Test Case End 	= Mon Apr 15 09:56:39 CDT 2013
+ 15 Apr 09:56:39 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 10:23:23 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 10:23:23 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 10:23:24 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 10:23:24 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 10:23:24 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 10:23:24 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 10:23:24 CDT 2013
+ 15 Apr 10:23:24 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 10:23:26 LogHelper | logStepStatus | - 04/15/2013 10:23:26 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 10:23:41 LogHelper | logStepStatus | - 04/15/2013 10:23:41 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 10:23:41 LogHelper | logStepStatus | - 04/15/2013 10:23:41 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 10:23:41 LogHelper | logStepStatus | - 04/15/2013 10:23:41 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 10:23:41 LogHelper | logStepStatus | - 04/15/2013 10:23:41 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 10:23:41 LogHelper | logStepStatus | - 04/15/2013 10:23:41 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 10:23:42 LogHelper | logStepStatus | - 04/15/2013 10:23:42 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 10:23:42 LogHelper | logStepStatus | - 04/15/2013 10:23:42 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 10:23:42 LogHelper | logStepStatus | - 04/15/2013 10:23:42 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:43 LogHelper | logStepStatus | - 04/15/2013 10:23:43 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:43 LogHelper | logStepStatus | - 04/15/2013 10:23:43 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:43 LogHelper | logStepStatus | - 04/15/2013 10:23:43 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:43 LogHelper | logStepStatus | - 04/15/2013 10:23:43 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:43 LogHelper | logStepStatus | - 04/15/2013 10:23:43 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:44 LogHelper | logStepStatus | - 04/15/2013 10:23:44 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:44 LogHelper | logStepStatus | - 04/15/2013 10:23:44 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:44 LogHelper | logStepStatus | - 04/15/2013 10:23:44 AM|Check|ScenarioID 2 Test Case|17|PASS|Checking if display date Month textbox displayed Expected [true] Actual [true]
+ 15 Apr 10:23:44 LogHelper | logStepStatus | - 04/15/2013 10:23:44 AM|Check|ScenarioID 2 Test Case|18|PASS|Checking if display date date textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:44 LogHelper | logStepStatus | - 04/15/2013 10:23:44 AM|Check|ScenarioID 2 Test Case|19|PASS|Checking if display date year textbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:45 LogHelper | logStepStatus | - 04/15/2013 10:23:45 AM|Check|ScenarioID 2 Test Case|20|PASS|Checking if My Location Checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:23:45 LogHelper | logStepStatus | - 04/15/2013 10:23:45 AM|Check|ScenarioID 2 Test Case|21|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 10:24:10 LogHelper | logStepStatus | - 04/15/2013 10:24:10 AM|Check|ScenarioID 2 Test Case|22|PASS|Checking error message on clicking Select withoput giving Last Name : Customer Search Expected [true] Actual [true]
+ 15 Apr 10:24:10 LogHelper | logStepStatus | - 04/15/2013 10:24:10 AM|Check|ScenarioID 2 Test Case|23|PASS|Verifying error message string for ignoring Mandatory Last Name for Customer Search Expected [Last/Business Name: This information is required.] Actual [Last/Business Name: This information is required.]
+ 15 Apr 10:24:11 LogHelper | logStepStatus | - 04/15/2013 10:24:11 AM|Check|ScenarioID 2 Test Case|24|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 10:24:36 LogHelper | logStepStatus | - 04/15/2013 10:24:36 AM|Check|ScenarioID 2 Test Case|25|PASS|Verifying error message string for ignoring Mandatory Product Type for New Quote Expected ["Product Type" is required to create a New Quote.] Actual ["Product Type" is required to create a New Quote.]
+ 15 Apr 10:24:37 LogHelper | logStepStatus | - 04/15/2013 10:24:37 AM|Check|ScenarioID 2 Test Case|26|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 10:24:37 LogHelper | logStepStatus | - 04/15/2013 10:24:37 AM|Check|ScenarioID 2 Test Case|27|PASS|Checking if Subproducer Code textfield comes on clicking New Business Expected [true] Actual [true]
+ 15 Apr 10:24:38 LogHelper | logStepStatus | - 04/15/2013 10:24:38 AM|Check|ScenarioID 2 Test Case|28|PASS|Checking if Policy Numer textfield comes on clicking Endorsement Expected [true] Actual [true]
+ 15 Apr 10:24:38 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 10:24:38 LogHelper | logTestCaseFooter | - Test Case Checks  = 28
+ 15 Apr 10:24:38 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 15 Apr 10:24:38 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 15 Apr 10:24:38 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 15 Apr 10:24:38 LogHelper | logTestCaseFooter | - Test Case Time 	= Mon Apr 15 10:24:38 CDT 2013
+ 15 Apr 10:24:38 LogHelper | logTestCaseFooter | - Test Case End 	= Mon Apr 15 10:24:38 CDT 2013
+ 15 Apr 10:24:38 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 11:44:33 DefaultRequestDirector | tryExecute | - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+ 15 Apr 11:44:33 DefaultRequestDirector | tryExecute | - Retrying request
+ 15 Apr 11:44:35 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 15 Apr 11:44:35 LogHelper | logTestCaseHeader | - Test Case Id    = ScenarioID 2 Test Case
+ 15 Apr 11:44:35 LogHelper | logTestCaseHeader | - Test Case Desc  = Description still needs to be created
+ 15 Apr 11:44:35 LogHelper | logTestCaseHeader | - Test Case Start = Mon Apr 15 11:44:35 CDT 2013
+ 15 Apr 11:44:35 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 11:44:41 LogHelper | logStepStatus | - 04/15/2013 11:44:41 AM|Check|ScenarioID 2 Test Case|1|PASS|Impersonate menu Exist Expected [true] Actual [true]
+ 15 Apr 11:45:02 LogHelper | logStepStatus | - 04/15/2013 11:45:02 AM|Check|ScenarioID 2 Test Case|2|PASS|Checking Customer Search radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 11:45:02 LogHelper | logStepStatus | - 04/15/2013 11:45:02 AM|Check|ScenarioID 2 Test Case|3|PASS|Checking New Quote radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 11:45:02 LogHelper | logStepStatus | - 04/15/2013 11:45:02 AM|Check|ScenarioID 2 Test Case|4|PASS|Checking New Business radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 11:45:03 LogHelper | logStepStatus | - 04/15/2013 11:45:03 AM|Check|ScenarioID 2 Test Case|5|PASS|Checking Endorsement radio button is not selected, Expected [false] Actual [false]
+ 15 Apr 11:45:03 LogHelper | logStepStatus | - 04/15/2013 11:45:03 AM|Check|ScenarioID 2 Test Case|6|PASS|Checking for MM Expected [04] Actual [04]
+ 15 Apr 11:45:03 LogHelper | logStepStatus | - 04/15/2013 11:45:03 AM|Check|ScenarioID 2 Test Case|7|PASS|Checking for DD Expected [15] Actual [15]
+ 15 Apr 11:45:03 LogHelper | logStepStatus | - 04/15/2013 11:45:03 AM|Check|ScenarioID 2 Test Case|8|PASS|Checking for YYYY Expected [2013] Actual [2013]
+ 15 Apr 11:45:04 LogHelper | logStepStatus | - 04/15/2013 11:45:04 AM|Check|ScenarioID 2 Test Case|9|PASS|Checking if Last Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:04 LogHelper | logStepStatus | - 04/15/2013 11:45:04 AM|Check|ScenarioID 2 Test Case|10|PASS|Checking if First Name textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:05 LogHelper | logStepStatus | - 04/15/2013 11:45:05 AM|Check|ScenarioID 2 Test Case|11|PASS|Checking if Address textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:05 LogHelper | logStepStatus | - 04/15/2013 11:45:05 AM|Check|ScenarioID 2 Test Case|12|PASS|Checking if Phone Areas Code textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:05 LogHelper | logStepStatus | - 04/15/2013 11:45:05 AM|Check|ScenarioID 2 Test Case|13|PASS|Checking if Phone Phone Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:05 LogHelper | logStepStatus | - 04/15/2013 11:45:05 AM|Check|ScenarioID 2 Test Case|14|PASS|Checking if State dropdown is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:06 LogHelper | logStepStatus | - 04/15/2013 11:45:06 AM|Check|ScenarioID 2 Test Case|15|PASS|Checking if Zip textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:06 LogHelper | logStepStatus | - 04/15/2013 11:45:06 AM|Check|ScenarioID 2 Test Case|16|PASS|Checking if Policy Number textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:06 LogHelper | logStepStatus | - 04/15/2013 11:45:06 AM|Check|ScenarioID 2 Test Case|17|PASS|Checking if display date Month textbox displayed Expected [true] Actual [true]
+ 15 Apr 11:45:07 LogHelper | logStepStatus | - 04/15/2013 11:45:07 AM|Check|ScenarioID 2 Test Case|18|PASS|Checking if display date date textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:07 LogHelper | logStepStatus | - 04/15/2013 11:45:07 AM|Check|ScenarioID 2 Test Case|19|PASS|Checking if display date year textbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:07 LogHelper | logStepStatus | - 04/15/2013 11:45:07 AM|Check|ScenarioID 2 Test Case|20|PASS|Checking if My Location Checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:07 LogHelper | logStepStatus | - 04/15/2013 11:45:07 AM|Check|ScenarioID 2 Test Case|21|PASS|Checking if All Locations checkbox is displayed Expected [true] Actual [true]
+ 15 Apr 11:45:09 LogHelper | logStepStatus | - 04/15/2013 11:45:09 AM|Check|ScenarioID 2 Test Case|22|PASS|Checking error message on clicking Select withoput giving Last Name : Customer Search Expected [true] Actual [true]
+ 15 Apr 11:45:09 LogHelper | logStepStatus | - 04/15/2013 11:45:09 AM|Check|ScenarioID 2 Test Case|23|PASS|Verifying error message string for ignoring Mandatory Last Name for Customer Search Expected [Last/Business Name: This information is required.] Actual [Last/Business Name: This information is required.]
+ 15 Apr 11:45:10 LogHelper | logStepStatus | - 04/15/2013 11:45:10 AM|Check|ScenarioID 2 Test Case|24|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 11:45:11 LogHelper | logStepStatus | - 04/15/2013 11:45:11 AM|Check|ScenarioID 2 Test Case|25|PASS|Verifying error message string for ignoring Mandatory Product Type for New Quote Expected ["Product Type" is required to create a New Quote.] Actual ["Product Type" is required to create a New Quote.]
+ 15 Apr 11:45:12 LogHelper | logStepStatus | - 04/15/2013 11:45:12 AM|Check|ScenarioID 2 Test Case|26|PASS|Checking if Product Type Dropdown comes on clicking New Quote Expected [true] Actual [true]
+ 15 Apr 11:45:13 LogHelper | logStepStatus | - 04/15/2013 11:45:13 AM|Check|ScenarioID 2 Test Case|27|PASS|Checking if Subproducer Code textfield comes on clicking New Business Expected [true] Actual [true]
+ 15 Apr 11:45:13 LogHelper | logStepStatus | - 04/15/2013 11:45:13 AM|Check|ScenarioID 2 Test Case|28|PASS|Checking if Policy Numer textfield comes on clicking Endorsement Expected [true] Actual [true]
+ 15 Apr 11:45:13 LogHelper | logTestCaseDash | - ---------------------------------------------------------------------------------
+ 15 Apr 11:45:13 LogHelper | logTestCaseFooter | - Test Case Checks  = 28
+ 15 Apr 11:45:13 LogHelper | logTestCaseFooter | - Test Case Errors  = 0
+ 15 Apr 11:45:13 LogHelper | logTestCaseFooter | - Test Case Known Issues = 
+ 15 Apr 11:45:13 LogHelper | logTestCaseFooter | - Test Case Status  = PASS
+ 15 Apr 11:45:13 LogHelper | logTestCaseFooter | - Test Case Time 	= Mon Apr 15 11:45:13 CDT 2013
+ 15 Apr 11:45:13 LogHelper | logTestCaseFooter | - Test Case End 	= Mon Apr 15 11:45:13 CDT 2013
+ 15 Apr 11:45:13 LogHelper | logTestCaseSepStar | - *********************************************************************************
+ 

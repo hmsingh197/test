@@ -1,0 +1,58 @@
+<page>
+  <impersonatePage>
+      <element>
+            <name>Target Test System</name>
+            <value>targetSystem</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+       <element>
+            <name>Source Of Launch Point</name>
+            <value>sourceOfLaunchPoint</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+       <element>
+            <name>Role</name>
+            <value>role</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+       <element>
+            <name>State</name>
+            <value>state</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+       <element>
+            <name>User NT ID</name>
+            <value>userNTID</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+       <element>
+            <name>Function Type</name>
+            <value>functionType</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+       <element>
+            <name>Agent Number</name>
+            <value>agentNumber</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+       <element>
+            <name>Launch</name>
+            <value>launch</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+  </impersonatePage>
+
+<initializeMenuPage>
+      <element>
+            <name>Customer Search</name>
+            <value>//input[@value="CS"]</value>
+	        <searchtype>XPATH</searchtype>
+       </element>
+       <element>
+            <name>first Name</name>
+            <value>firstName</value>
+	        <searchtype>NAME</searchtype>
+       </element>
+
+ </initializeMenuPage>
+</page>
